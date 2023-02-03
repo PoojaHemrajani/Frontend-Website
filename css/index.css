@@ -31,6 +31,9 @@
     .text-center-man {
         text-align: center!important;
     }
+    .section-1 {
+        height: 105vh!important;
+    }
 }
 @media only screen and (min-width: 600px) {
     .text-1 {
